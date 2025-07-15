@@ -28,6 +28,12 @@ A modern, responsive Age Calculator web app that helps users find their exact ag
 - **JavaScript (ES6+)**	Input handling, date validation, age calculation, and confetti effect
 ---
 
+## 🖼️ Screenshots
+
+
+### ✅ Calculator Page  
+![Calculator Page](https://github.com/ReshmaShaik20/codealpha_tasks/blob/main/agecalculator.png?raw=true)
+---
 ## 📜 License
 
 This project is **not licensed**. It is created for personal and educational use only.
